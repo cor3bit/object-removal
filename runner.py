@@ -11,6 +11,7 @@ EXTENSIONS = {'bmp', 'jpeg', 'jpg', 'png'}
 OPTIMAL_PARAMETERS = defaultdict(
     lambda: (21, 0.8),
     {
+        'input_1.jpg': (17, 0.8),
         'input_2.jpg': (33, 0.5),
         'input_3.jpg': (21, 0.8),
     }
