@@ -1,4 +1,4 @@
-# Seam carving experiments
+# Object removal experiments
 
 Light-weight (and sort of hackish) replication of the algorithms described 
 in the paper
